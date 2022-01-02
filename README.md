@@ -14,6 +14,7 @@
 
 ## App View
 <p align='center'><img src='./data/images/app-view.png'></p>
+
 <br>
 
 
