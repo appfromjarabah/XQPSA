@@ -1,4 +1,4 @@
-<h1 align='center'><img src='./README-Images/logo.svg' width='350px'></h1>
+<h1 align='center'><img src='./data/images/logo.svg' width='350px'></h1>
 
 - An open-source desktop application is developed using the [Pygame framework](https://www.pygame.org).
 
@@ -13,7 +13,7 @@
 <br>
 
 ## App View
-<p align='center'><img src='./README-Images/app-view.png'></p>
+<p align='center'><img src='./data/images/app-view.png'></p>
 <br>
 
 
