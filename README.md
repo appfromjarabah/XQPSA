@@ -19,7 +19,7 @@
 
 
 ## Download Link
-<a download href='./Installation Setup/X-Queen Problem Solver Application.exe'>⬇ Click here</a> to download the app setup.
+<a href='./Installation Setup/X-Queen Problem Solver Application.exe' download>⬇ Click here</a> to download the app setup.
 
 <br>
 
