@@ -1,4 +1,4 @@
-<h1 align='center'><img src='./data/images/logo.svg' width='350px'></h1>
+<h1 align='center'><img src='./Codes/data/images/logo.svg' width='350px'></h1>
 
 - An open-source desktop application is developed using the [Pygame framework](https://www.pygame.org).
 
@@ -13,13 +13,13 @@
 <br>
 
 ## App View
-<p align='center'><img src='./data/images/app-view.png'></p>
+<p align='center'><img src='./Codes/data/images/app-view.png'></p>
 
 <br>
 
 
 ## Download Link
-⬇ [Click here](https://drive.google.com/drive/folders/1vUlq-B3ao1_ZKbXF0V0h9rEBskmQR9A_?usp=sharing) to download the app setup.
+<a href='./Installation Setup/X-Queen Problem Solver Application.exe' download>⬇ Click here</a> to download the app setup.
 
 <br>
 
