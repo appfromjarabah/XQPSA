@@ -2,7 +2,7 @@
 from ortools.constraint_solver import pywrapcp
 
 
-def main(board_size):
+def mainSearch(board_size):
     # CREATES THE SOLVER.
     solver = pywrapcp.Solver('n-queens')
 
@@ -57,7 +57,7 @@ def SaveAllSols(NUM_OF_QUEENS):
     # CREATE THE LISTS ==> ||| _4_queen_solutions_list, ..., _N_queen_solutions_list |||.
     for I in range(4, NUM_OF_QUEENS+1):
         board_size = I
-        main(board_size)
+        mainSearch(board_size)
 
     # CREATE THE LIST ==> ||| ALL_SOLS_LIST = [_4_queen_solutions_list, ..., _N_queen_solutions_list] |||.
     with open('db.py', mode='a', encoding='utf-8') as file:
