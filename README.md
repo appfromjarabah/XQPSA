@@ -103,6 +103,5 @@
 <br>
 
 ## Credits
-* [Pygame](https://www.pygame.org) Framework
+* [Pygame Framework](https://www.pygame.org)
 * [OR-Tools Solution to The N-Queens Problem](https://developers.google.com/optimization/cp/queens)
-
