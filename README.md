@@ -33,11 +33,11 @@
 
 ## Features
 * 🖼 Elegant UI including 5 pages
-* 👓 UI elements with effects
+* 👓 UI elements with interactive effects
 * ℹ️ About page for the application details
 * ⚡ Support fully solutions for 10 cases of the n-queen problem
 * 🔃 Loading page with elegant animation
-* ♟ Chessboard with options to see all the problem solutions
+* ♟ Chessboard with options to see all solutions to the chosen problem
 * 🔙 Three pages include a back button
 
 <br>
