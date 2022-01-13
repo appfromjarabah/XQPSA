@@ -52,3 +52,4 @@
 * [Pygame Framework](https://www.pygame.org)
 * [OR-Tools Solution to The N-Queens Problem](https://developers.google.com/optimization/cp/queens)
 * Icons are from [Font Awesome](https://fontawesome.com)
+* Images are from [Unsplash](https://unsplash.com)
