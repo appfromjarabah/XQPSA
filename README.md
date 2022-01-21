@@ -54,3 +54,4 @@
 * Icons are from [Font Awesome](https://fontawesome.com)
 * Images are from [Unsplash](https://unsplash.com)
 * Fonts are from [Google Fonts](https://fonts.google.com)
+* App Icon is from [Flat Icon](https://www.flaticon.com)
