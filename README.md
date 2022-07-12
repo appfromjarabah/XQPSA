@@ -1,14 +1,14 @@
 <h1 align='center'><img src='./images/logo.svg' width='350px'></h1>
 
-* A desktop application is developed using the [Pygame framework](https://www.pygame.org).
+* A desktop application is developed using [PyGame](https://www.pygame.org) framework.
 
 * The application allows users to choose the problem from a 4-queen problem to a 13-queen problem (10 cases), then display all possible solutions (queens locations) on the chessboard.
 
-* The application displays all solutions for all cases at the same time (about 5s while preparing the chessboard).
+* The application displays all solutions for all cases at the same time (about 2s while preparing the chessboard).
 
 * Cases solutions are stored into lists embedded with the application code lines.
 
-* We used the [OR-Tools Solution to The N-Queens Problem](https://developers.google.com/optimization) from Google to prepare the data of the cases' solutions.
+* We used the OR tools solution to the [N-Queens Problem](https://developers.google.com/optimization) from Google to prepare the data of the cases' solutions.
 
 <br>
 
@@ -49,9 +49,6 @@
 <br>
 
 ## Credits
-* [Pygame](https://www.pygame.org) Framework
-* [OR-Tools Solution](https://developers.google.com/optimization/cp/queens) to The N-Queens Problem
-* Icons are from [Font Awesome](https://fontawesome.com)
+* Icons are from [Font Awesome](https://fontawesome.com), [Flat Icon](https://www.flaticon.com)
 * Images are from [Unsplash](https://unsplash.com)
-* Fonts are from [Google Fonts](https://fonts.google.com)
-* App Icon is from [Flat Icon](https://www.flaticon.com)
+* Font is from [Google Fonts](https://fonts.google.com)
